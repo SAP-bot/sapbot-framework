@@ -2,4 +2,4 @@
 
 <hr>
 
-#### Developed by - Zen Silva
+#### Developed by - Imaclone.sol
